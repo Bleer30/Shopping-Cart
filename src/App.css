@@ -1,0 +1,14 @@
+.container-home{
+    display: flex;
+    flex-direction: row;
+}
+
+.img-home {
+    width: 1250px;
+    height: 600px;
+}
+
+.img-about{
+    width: 1250px;
+    height: 600px;
+}
